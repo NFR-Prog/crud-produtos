@@ -134,7 +134,3 @@ routes/
 
 **Nícolas F. dos Reis**  
 Processo Seletivo - Memphis Network  
-
----
-
-⭐ **Gostou do projeto?** Deixe uma estrela no repositório!
