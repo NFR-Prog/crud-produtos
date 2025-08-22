@@ -9,7 +9,7 @@ Sistema CRUD completo para gerenciamento de produtos desenvolvido em Laravel com
 ## 📸 Preview da Aplicação
 
 ![Sistema Gerenciador de Produtos](screenshot-sistema.png)
-*Interface principal do sistema mostrando a lista de produtos com todas as funcionalidades disponíveis*
+*Interface principal do sistema mostrando a lista de produtos com todas as funcionalidades disponíveis.*
 
 ## ✨ Funcionalidades
 
