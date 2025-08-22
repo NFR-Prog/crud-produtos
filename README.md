@@ -51,7 +51,7 @@ Sistema CRUD completo para gerenciamento de produtos desenvolvido em Laravel com
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/SEU-USUARIO/crud-produtos.git
+git clone https://github.com/NFR-Prog/crud-produtos.git
 cd crud-produtos
 ```
 
